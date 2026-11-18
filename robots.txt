@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moa-kr.github.io/pokemoa/sitemap.xml
